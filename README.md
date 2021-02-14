@@ -1,31 +1,21 @@
 
-<h1> form validation with EMAILJS </h1>
+<h1> very simple form validation  </h1>
 
 
 >from the series: I'm learning React! :muscle:
 
 ----
 
-*My task was to create the form along with the form validation. When the user fills in all fields, a message will be sent*
-
-
-**I used [EMAIL JS](https://www.emailjs.com/docs/) here.**
-
-*EmailJS helps to send emails using client-side technologies only. No server is required – just connect EmailJS to one of the supported email services, create an email template, and use our Javascript library to trigger an email.*
-
-
-
-----
 
 
 <h3>What did I use in the project? What have I learned?</h3>
 
-
-* I practiced REACT [HOOKS](https://reactjs.org/docs/hooks-overview.html)
-* How to divide a task into several modules (so that the code is more readable and that one module does not have several functions)
-* how to use [conditional statement](https://www.robinwieruch.de/conditional-rendering-react)
-* how to create a form and retrieve data entered by the user
-
+* Here I practiced REACT basics, what exactly is [state](https://reactjs.org/docs/state-and-lifecycle.html)
+* Added Local State to a Class
+* State Updates 
+* comparison operators
+* what is [indexOf method](https://www.w3schools.com/jsref/jsref_indexof.asp)
+* how to do a simple form validation using react
 -----
 
 <h3>How to open a file? :eyes: </h3>
@@ -40,14 +30,12 @@
 
 
 
-
-:computer: TECHNOLOGIES : HTML, CSS , REACT, WEBPACK, NPM
-
+:computer: TECHNOLOGIES : HTML, CSS , REACT
 
 
 ———>
 
-:speaker: :speaker: My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/form-with-validation) :arrow_left: :arrow_left: :arrow_left:
+:speaker: :speaker: My next small project from REACT basics(also validation but with HOOKS)  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/form-with-validation_REACT-hooks) :arrow_left: :arrow_left: :arrow_left:
 
 ----
 
@@ -56,14 +44,7 @@
 
 
 
-1.
-![Zrzut ekranu 2021-02-14 o 22 01 36](https://user-images.githubusercontent.com/59742201/107889270-b2cf7680-6f11-11eb-8cf3-ddb1b7a7d433.png)
-
-2.
-![Zrzut ekranu 2021-02-14 o 22 02 01](https://user-images.githubusercontent.com/59742201/107889269-b2cf7680-6f11-11eb-85a3-720939700743.png)
-
-3.
-![Zrzut ekranu 2021-02-14 o 22 03 06](https://user-images.githubusercontent.com/59742201/107889265-b19e4980-6f11-11eb-9f19-6f68ae6307c2.png)
+![Zrzut ekranu 2021-02-14 o 22 34 31](https://user-images.githubusercontent.com/59742201/107889929-28d5dc80-6f16-11eb-9527-092ed4d53da9.png)
 
 
 
