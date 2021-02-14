@@ -54,13 +54,19 @@
 
 :mag_right: :mag_right: see what it looks like:
 
+1.
+![Zrzut ekranu 2021-02-14 o 22 01 36](https://user-images.githubusercontent.com/59742201/107889270-b2cf7680-6f11-11eb-8cf3-ddb1b7a7d433.png)
 
+2.
+![Zrzut ekranu 2021-02-14 o 22 02 01](https://user-images.githubusercontent.com/59742201/107889269-b2cf7680-6f11-11eb-85a3-720939700743.png)
+
+3.
 ![Zrzut ekranu 2021-02-14 o 22 03 06](https://user-images.githubusercontent.com/59742201/107889265-b19e4980-6f11-11eb-9f19-6f68ae6307c2.png)
 
 
-![Zrzut ekranu 2021-02-14 o 22 02 01](https://user-images.githubusercontent.com/59742201/107889269-b2cf7680-6f11-11eb-85a3-720939700743.png)
 
 
-![Zrzut ekranu 2021-02-14 o 22 01 36](https://user-images.githubusercontent.com/59742201/107889270-b2cf7680-6f11-11eb-8cf3-ddb1b7a7d433.png)
+
+
 
 
