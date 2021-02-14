@@ -30,7 +30,6 @@ class App extends Component {
     const type = e.target.type;
     if (type === "text" || type === "password" || type === "email") {
       const value = e.target.value;
-      // const checked = e.target.checked;
       this.setState({
         [name]: value
       })
@@ -46,7 +45,7 @@ class App extends Component {
     e.preventDefault()
 
     const validation = this.formValidation()
-    // console.log(validation)
+  
 
     if (validation.correct) {
       this.setState({
@@ -54,7 +53,7 @@ class App extends Component {
         email: '',
         pass: '',
         accept: false,
-        message: 'Formularz został wysłany',
+        message: 'The form has been sent! thanks',
 
         errors: {
           username: false,
