@@ -49,10 +49,12 @@
 
 :speaker: :speaker: My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/form-with-validation) :arrow_left: :arrow_left: :arrow_left:
 
-
+----
 
 
 :mag_right: :mag_right: see what it looks like:
+
+
 
 1.
 ![Zrzut ekranu 2021-02-14 o 22 01 36](https://user-images.githubusercontent.com/59742201/107889270-b2cf7680-6f11-11eb-8cf3-ddb1b7a7d433.png)
