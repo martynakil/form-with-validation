@@ -1,68 +1,60 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1> form validation with EMAILJS </h1>
 
-In the project directory, you can run:
 
-### `npm start`
+>from the series: I'm learning React! :muscle:
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+----
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+*My task was to create the form along with the form validation. When the user fills in all fields, a message will be sent*
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**I used [EMAIL JS](https://www.emailjs.com/docs/) here.**
 
-### `npm run build`
+*EmailJS helps to send emails using client-side technologies only. No server is required – just connect EmailJS to one of the supported email services, create an email template, and use our Javascript library to trigger an email.*
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+----
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<h3>What did I use in the project? What have I learned?</h3>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* I practiced REACT [HOOKS](https://reactjs.org/docs/hooks-overview.html)
+* How to divide a task into several modules (so that the code is more readable and that one module does not have several functions)
+* how to use [conditional statement](https://www.robinwieruch.de/conditional-rendering-react)
+* how to create a form and retrieve data entered by the user
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+-----
+<h3>How to open a file? :eyes: </h3>
 
-## Learn More
+* I practiced REACT [HOOKS](https://reactjs.org/docs/hooks-overview.html)
+*How to divide a task into several modules (so that the code is more readable and that one module does not have several functions)
+* An item should appear with the "Download ZIP" option - click again.
+* Now you just need to unpack the downloaded file and open it in your favorite editor.
+* you must enter the appropriate folder (command "cd" + file name)
+* you must to install all packages via *npm install*
+* then you can start *npm start*
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+:computer: TECHNOLOGIES : HTML, CSS , REACT, WEBPACK, NPM
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+———>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+:speaker: :speaker: My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/form-with-validation) :arrow_left: :arrow_left: :arrow_left:
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+:mag_right: :mag_right: see what it looks like:
 
-### Advanced Configuration
+![Zrzut ekranu 2021-02-14 o 22 03 06](https://user-images.githubusercontent.com/59742201/107889265-b19e4980-6f11-11eb-9f19-6f68ae6307c2.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
+![Zrzut ekranu 2021-02-14 o 22 02 01](https://user-images.githubusercontent.com/59742201/107889269-b2cf7680-6f11-11eb-85a3-720939700743.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+![Zrzut ekranu 2021-02-14 o 22 01 36](https://user-images.githubusercontent.com/59742201/107889270-b2cf7680-6f11-11eb-8cf3-ddb1b7a7d433.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
