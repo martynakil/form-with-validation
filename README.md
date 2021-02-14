@@ -27,6 +27,7 @@
 * how to create a form and retrieve data entered by the user
 
 -----
+
 <h3>How to open a file? :eyes: </h3>
 
 * I practiced REACT [HOOKS](https://reactjs.org/docs/hooks-overview.html)
@@ -38,6 +39,8 @@
 * then you can start *npm start*
 
 
+
+
 :computer: TECHNOLOGIES : HTML, CSS , REACT, WEBPACK, NPM
 
 
@@ -47,7 +50,10 @@
 :speaker: :speaker: My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/form-with-validation) :arrow_left: :arrow_left: :arrow_left:
 
 
+
+
 :mag_right: :mag_right: see what it looks like:
+
 
 ![Zrzut ekranu 2021-02-14 o 22 03 06](https://user-images.githubusercontent.com/59742201/107889265-b19e4980-6f11-11eb-9f19-6f68ae6307c2.png)
 
